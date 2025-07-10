@@ -120,6 +120,13 @@ npm run deploy
    1. Add `https://mcp-stytch-consumer-todo-list.$YOUR_ACCOUNT_NAME.workers.dev/authenticate` as an allowed [Redirect URL](https://stytch.com/dashboard/redirect-urls?env=test)
    2. Add `https://mcp-stytch-consumer-todo-list.$YOUR_ACCOUNT_NAME.workers.dev` as an allowed Authorized Application in the [Frontend SDKs](https://stytch.com/dashboard/sdk-configuration?env=test) configuration
 
+6. Setup Authorization URL (https://mcp-stytch-consumer-todo-list.juan-manuel-rodriguez.workers.dev/oauth/authorize
+
+)
+
+![Authorization URL](./authUrlConfig.png)
+
+
 ## Get help and join the community
 
 #### :speech_balloon: Stytch community Slack
